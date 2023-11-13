@@ -1,4 +1,6 @@
-### An open-source AI summarizer using GPT 4.
+### An open-source AI article summarizer using GPT 4.
+
+![Application Demo](/public/demo.gif)
 
 ## Features:
 - Summarize articles for easier readability 
